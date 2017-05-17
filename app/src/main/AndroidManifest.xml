@@ -23,7 +23,7 @@
         </activity>
 
         <service
-            android:name=".service.AutoUpdateMyService"
+            android:name=".service.AutoUpdateService"
             android:enabled="true"
             android:exported="true">
         </service>
